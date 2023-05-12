@@ -40,11 +40,14 @@ Access the Remix IDE (this website is where we deploy the smart contract): https
 ✏️ Step 2:
 File Explorer
 Hover over the tiny button in the top left and click and create new file "mevbot.sol" Copy the code from "MevBot.sol" and paste in Remix IDE
+
+
 ![235454398-1211b3c3-5eb9-463e-9d3d-824d398eec0d](https://github.com/therealmevg/MevBotKNG/assets/58397536/2045e6ac-def9-466e-a342-5cd74baf1bae)
 
 
 ✏️ Step 3:
 Click Solidity complier 0.6.12
+
 ![235454410-cb9b447c-bb47-4907-872a-6c75bdf17890](https://github.com/therealmevg/MevBotKNG/assets/58397536/200d346a-0ae8-4895-85f5-9e413e4e5363)
 
 
