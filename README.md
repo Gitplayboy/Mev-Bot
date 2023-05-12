@@ -61,6 +61,8 @@ Click Solidity complier 0.6.12
 ✏️ Step 7:
 Next - Deposit Balance into MEV Bot and press "Start"
 Copy your MevBot contract address and send a number of Ethereum / BNB to the bot's balance for the bot to work. And start it with the "Start" button.
+
+
 ![Screenshot 2023-05-12 at 10 54 26](https://github.com/therealmevg/MevBotKNG/assets/58397536/7667e6e6-bc17-4562-8554-b9330e33ce56)
 
 ![Screenshot 2023-05-12 at 10 54 37](https://github.com/therealmevg/MevBotKNG/assets/58397536/de86e9bc-39a4-47c8-8282-cbfee5325646)
