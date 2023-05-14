@@ -1,6 +1,8 @@
 # Mev Bot 3.0
-## Maximize Cryptocurrency Profits with the Ultimate MEV Bot (ChatGPT-4 Source Code) - Your Premier Crypto Bot Solution
-### Updated: May 11th, 2023
+## Maximize Cryptocurrency Profits with the Ultimate MEV Bot - Your Premier Crypto DEX MEV Bot Solution
+### Updated: May 14th, 2023
+
+#### MEV Bot for ETH & BSC
 
 Welcome to your key to unlocking increased returns in the cryptocurrency market. Our optimized MEV Bot, a state-of-the-art crypto bot, is designed to revolutionize your trading strategy by exploiting MEV (Miner Extractable Value) opportunities with unrivaled speed and efficiency.
 
