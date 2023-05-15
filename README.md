@@ -5,6 +5,9 @@
 #### MEV Bot for ETH & BSC
 ##### An ETH MEV-BOT for performing sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that empowers contract deployers to reap profits from tokens.
 
+
+## About 
+
 Welcome to your key to unlocking increased returns in the cryptocurrency market. Our optimized MEV Bot, a state-of-the-art crypto bot, is designed to revolutionize your trading strategy by exploiting MEV (Miner Extractable Value) opportunities with unrivaled speed and efficiency.
 
 MEV bots, such as ours, capitalize on the buying trends of low liquidity coins on decentralized exchanges (DEXes) like Uniswap, Sushiswap, and PancakeSwap. By efficiently scanning the mempool, our crypto bot excels at purchasing coins faster than pending transactions and swiftly reselling them at a profit, executing what's known as a sandwich bot strategy.
