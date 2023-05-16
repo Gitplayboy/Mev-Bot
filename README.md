@@ -1,12 +1,16 @@
-# Mev Bot 3.0
-## Maximize Cryptocurrency Profits with the Ultimate MEV Bot - Your Premier Crypto DEX MEV Bot Solution
+# 💎🤖 ETH MEV-BOT 🤖💎
+An ETH MEV-BOT for performing sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that empowers contract deployers to reap profits from tokens.
+
+# 📚 About
+In the fascinating world of cryptocurrency, understanding what an MEV Bot is, can be crucial. A Maximal Extractable Value (MEV) bot is a sophisticated arbitrage instrument that scouts the Mempool for pending transactions on decentralized exchanges such as Uniswap. It cunningly inserts our transaction with a slightly higher gas fee (1 Gwei more than the transaction attempting to enter), thus sandwiching the pending transaction and ensuring ours is processed first, reaping profits from the slippage differences.
+
+
 ### Updated: May 14th, 2023
 
 #### MEV Bot for ETH & BSC
 ##### An ETH MEV-BOT for performing sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that empowers contract deployers to reap profits from tokens.
 
 
-## About 
 
 Welcome to your key to unlocking increased returns in the cryptocurrency market. Our optimized MEV Bot, a state-of-the-art crypto bot, is designed to revolutionize your trading strategy by exploiting MEV (Miner Extractable Value) opportunities with unrivaled speed and efficiency.
 
